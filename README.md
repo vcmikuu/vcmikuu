@@ -18,3 +18,9 @@
 [Download the latest for 1.37.0](https://github.com/vcmikuu/Red-bar/releases/download/1.15.0/RedBar1.15.0.qmod)
 
 [Download older versions](https://github.com/vcmikuu/Red-bar/releases/)
+
+# ChristmasTheme ![GitHub Downloads](https://img.shields.io/github/downloads/vcmikuu/ChristmasTheme/total)
+
+[Download the latest for 1.37.0](https://github.com/vcmikuu/ChristmasTheme/releases/download/v1.0.0/Christmas.qmod)
+
+[Download older versions](https://github.com/vcmikuu/ChristmasTheme/releases)
