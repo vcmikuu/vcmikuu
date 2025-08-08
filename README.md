@@ -3,7 +3,7 @@
 
 # ImageCoverExpander ![GitHub Downloads](https://img.shields.io/github/downloads/vcmikuu/ImageCoverExpander/total)
 
-[Download latest ver. for 1.40.6](https://github.com/vcmikuu/ImageCoverExpander/releases/download/v0.2.2/ImageCoverExpander.qmod)
+[Download latest ver. for 1.40.8](https://github.com/vcmikuu/ImageCoverExpander/releases/download/v0.2.4/ImageCoverExpander.qmod)
 
 [Download older versions](https://github.com/vcmikuu/ImageCoverExpander/releases/)
 
